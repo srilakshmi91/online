@@ -8,55 +8,35 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Srilakshmi Savaram
+  tagline: Asistant Teacher
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
-
+  email: srilakshmichikkala@gmail.com
+  phone: +91-9962715531
   languages:
     title: Languages
     info:
     - idiom: English
+      level: Professional
+
+    - idiom: Tamil
+      level: Professional
+      
+    - idiom: Hindi
+      level: Professional
+      
+    - idiom: Telugu
       level: Native
-
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Reading Books
       link:
-
-
-    - item: Snowboarding
+    - item: Science Experiments
       link:
-
-
     - item: Cooking
       link:
 
@@ -64,12 +44,8 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+Dedicated and enthusiastic B.Sc. B.Ed. graduate with a strong foundation in English & Science. Passionate about fostering a positive and engaging learning environment that encourages student growth and curiosity. Well-versed in modern teaching methodologies, lesson planning, and classroom management techniques.
+Strong understanding of child psychology, enabling effective communication and tailored teaching approaches to meet diverse learning needs. Skilled at creating an inclusive and supportive classroom that nurtures students' intellectual and emotional development. Adept at integrating technology into education to enhance student learning. Seeking an opportunity as a Science & English teacher to apply my academic knowledge and teaching skills in a school that values innovation and student-centered learning.
 education:
   title: Education
   info:
