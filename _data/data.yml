@@ -105,23 +105,23 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Lesson Planning
     level: 98%
 
-  - name: Javascript & jQuery
+  - name: Communication
     level: 98%
 
-  - name: Angular
+  - name: Adaptability
     level: 98%
 
-  - name: HTML5 & CSS
+  - name: Time Management
     level: 95%
 
-  - name: Ruby on Rails
-    level: 85%
+  - name: Child Psychology
+    level: 90%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: workshops
+    level: 90%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
